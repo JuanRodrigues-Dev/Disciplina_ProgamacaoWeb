@@ -65,7 +65,6 @@ nbdist/
 
 # Maven
 .mvn/timing.properties
-.mvn/wrapper/maven-wrapper.jar
 
 # Gradle
 .gradle/
